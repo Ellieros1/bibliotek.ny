@@ -1,0 +1,10 @@
+ William Shakespeare,Romeo och Julia,0
+ Joseph Heller,Catch 22,1
+ John Kennedy Toole,A Confederacy of Dunces,1
+ Douglas Adams,The Hitchhiker’s Guide to the Galaxy,1
+ Douglas Adams,The Restaurant at the End of the Universe,1
+ Douglas Adams,Life the Universe and Everything,0
+ Douglas Adams,Mostly Harmless,1
+ Isaac Asimov,I Robot,1
+ Miguel Cervantes,Don Quixote,1
+ Hjalmar Söderberg,Doktor Glas,0
